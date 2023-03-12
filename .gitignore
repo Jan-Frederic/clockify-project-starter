@@ -6,6 +6,11 @@ __pycache__/
 # C extensions
 *.so
 
+# windows batch and json test files
+*.bat
+*.json
+example.py
+
 # Distribution / packaging
 .Python
 build/
