@@ -13,7 +13,7 @@ now = datetime.now().strftime("%d_%m_%Y_%H:%M:%S")
 description = f"{description}_{now}"
 
 data = {
-    "billable": "true",
+    "billable": "false",
     "description": description,
     "projectId": project_id
 }
