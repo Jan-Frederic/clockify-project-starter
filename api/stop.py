@@ -1,5 +1,4 @@
 import requests
-import json
 import datetime
 import sys
 from datetime import datetime
